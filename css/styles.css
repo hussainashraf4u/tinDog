@@ -103,8 +103,26 @@ p {
 .pricing-coloum {
   padding: 3% 2%;
 }
+#cta {
+  background-color: #ef8171;
+  color: white;
+  text-align: center;
+  padding: 7% 15%;
+}
+.cta-header {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
 
+#footer {
+  text-align: center;
+}
 
+.footer-icon {
+  margin: 20px;
+}
 @media (max-width :1028px ) {
   .title-img {
     transform: rotate(0);
